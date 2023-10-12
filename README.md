@@ -27,4 +27,5 @@ Files:
 - input.txt (omitted from public repo: personal info)
 - hash.png
 
-In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. 
+In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. ![hash](https://github.com/chrisnish4/msds610_final/assets/60720029/2ffec202-9926-4dec-95bd-e59e2816fbb3)
+
