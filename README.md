@@ -3,6 +3,7 @@
 ### Overview
 In previous presenatations, we covered the basic structure of hash tables and the utility of the hash function extensively. In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. We will demo a common use case in cybersecurity using the popular SHA-256 hash function.   
 
+---
 ### Types and Qualities of Hash Functions 
 There are generally two types of hash functions: **cryptographic** and **non-cryptographic**. The hash tables we have discussed until now have been implementing non-cryptographic hash functions, as we were only concerned with speed and didn't discuss security. Because non-cryptographic hash functions are meant for efficient search and retrieval, their main criteria are speed and collision resistance. Cryptogrpahic hash functions on the other hand, have more rigorous requirements. 
 
@@ -17,6 +18,7 @@ According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash
 
 In our example, we use the SHA-256 hash function. 
 
+---
 ### SHA-256 Example
 Files:
 - Hashing.ipynb: code demo
