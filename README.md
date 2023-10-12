@@ -16,14 +16,14 @@ According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash
 6. Pre-image resistant
 7. Second pre-image resistant
 
+In our example, we use the SHA-256 hash function. 
 
-
-### The Code
-File structure:
+### Code
+Files:
 - Hashing.ipynb: code demo
 - common_passwords.txt
 - hashes.txt
 - input.txt (omitted from public repo: personal info)
 - hash.png
 
-In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. Our example 
+In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. 
