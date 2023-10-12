@@ -17,7 +17,7 @@ According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash
 
 In our example, we use the SHA-256 hash function. 
 
-### Code
+### SHA-256 Example
 Files:
 - Hashing.ipynb: code demo
 - common_passwords.txt
