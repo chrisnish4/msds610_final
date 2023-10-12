@@ -1,0 +1,392 @@
+Maricela Abarca	
+Maricela Abarca	
+MSDS-610-01
+Student
+Shreyas Anil
+Shreyas Anil	
+MSDS-610-04
+Student
+Solomon Asiedu-Ofei
+Solomon Asiedu-Ofei	
+MSDS-610-03
+Student
+Sai Pranavi Avadhanam
+Sai Pranavi Avadhanam	
+MSDS-610-03
+Student
+Ireri Avila
+Ireri Avila	
+MSDS-610-02
+Student
+Karthik Ayyalasomayajula
+Karthik Ayyalasomayajula	
+MSDS-610-04
+Student
+John Bailey
+John Bailey	
+MSDS-610-04
+Student
+Vidith Balasa
+Vidith Balasa	
+MSDS-610-02
+Student
+Eren Bardak
+Eren Bardak	
+MSDS-610-01
+Student
+Colin Bennie
+Colin Bennie	
+MSDS-610-02
+Student
+Ryan Bernstein
+Ryan Bernstein	
+MSDS-610-02
+Student
+Khushi Bhat
+Khushi Bhat	
+MSDS-610-02
+Student
+Vineeth Guptha Bodla
+Vineeth Guptha Bodla	
+MSDS-610-04
+Student
+Jason Bounds
+Jason Bounds	
+MSDS-610-01
+Student
+Jessica Brungard
+Jessica Brungard	
+MSDS-610-01
+Student
+Kris Byington
+Kris Byington	
+MSDS-610-01
+Student
+Samuel Campione
+Samuel Campione	
+MSDS-610-03
+Student
+Tri Cao
+Tri Cao	
+MSDS-610-03
+Student
+Yihan Cao
+Yihan Cao	
+MSDS-610-04
+Student
+Muhammad Essa Tabish Chawla
+Muhammad Essa Tabish Chawla	
+MSDS-610-04
+Student
+Freeman Chen
+Freeman Chen (He/Him/His)	
+MSDS-610-04
+Student
+Jeffrey Chen
+Jeffrey Chen	
+MSDS-610-03
+Student
+Amy Cho
+Amy Cho	
+MSDS-610-04
+Student
+James Chung
+James Chung	
+MSDS-610-04
+Student
+Jaywook Chung
+Jaywook Chung	
+MSDS-610-02
+Student
+Robert Clements
+Robert Clements	
+MSDS-610-03
+MSDS-610-04
+MSDS-610-02
+MSDS-610-01
+Teacher
+Teacher
+Teacher
+Teacher
+Teja Davuluri
+Teja Davuluri	
+MSDS-610-04
+Student
+Rithvik Donnipadu
+Rithvik Donnipadu	
+MSDS-610-02
+Student
+Ian Duke
+Ian Duke	
+MSDS-610-04
+Student
+Princewill Egbujor
+Princewill Egbujor	
+MSDS-610-04
+Student
+Bassim Eledath
+Bassim Eledath	
+MSDS-610-02
+Student
+Abhi Erra
+Abhi Erra	
+MSDS-610-04
+Student
+Yen-Hsin Fang
+Yen-Hsin Fang	
+MSDS-610-03
+Student
+Tatshini Ganesan
+Tatshini Ganesan	
+MSDS-610-01
+Student
+Irene Garcia Montoya
+Irene Garcia Montoya (She/Her/Hers)	
+MSDS-610-01
+Student
+Daniel Gonzalez
+Daniel Gonzalez	
+MSDS-610-02
+Student
+Gaurav Goyal
+Gaurav Goyal (He/Him)	
+MSDS-610-02
+Student
+Caleb Hamblen
+Caleb Hamblen	
+MSDS-610-02
+Student
+Inseong Han
+Inseong Han	
+MSDS-610-02
+Student
+Sangjun Han
+Sangjun Han	
+MSDS-610-02
+Student
+Nathan Holmes-King
+Nathan Holmes-King (He/Him)	
+MSDS-610-02
+Student
+Brandon Hom
+Brandon Hom	
+MSDS-610-01
+Student
+Shrey Jain
+Shrey Jain	
+MSDS-610-02
+Student
+Yazhu Jiang
+Yazhu Jiang	
+MSDS-610-04
+Student
+Tyler Kahn
+Tyler Kahn	
+MSDS-610-01
+Student
+Shagun Kala
+Shagun Kala	
+MSDS-610-01
+Student
+Indar Kumar
+Indar Kumar	
+MSDS-610-01
+Student
+Nithin Kumar
+Nithin Kumar	
+MSDS-610-03
+Student
+Mark Lam
+Mark Lam	
+MSDS-610-03
+Student
+Zoe Le
+Zoe Le	
+MSDS-610-01
+Student
+Yepeng Li
+Yepeng Li	
+MSDS-610-04
+Student
+Param Sunil Mehta
+Param Sunil Mehta	
+MSDS-610-01
+Student
+Nick Miller
+Nick Miller	
+MSDS-610-03
+Student
+Aryan Mistry
+Aryan Mistry	
+MSDS-610-02
+Student
+Rishi Mohan
+Rishi Mohan	
+MSDS-610-03
+Student
+Varsha Moturi
+Varsha Moturi	
+MSDS-610-01
+Student
+Ranjeet Nagarkar
+Ranjeet Nagarkar	
+MSDS-610-03
+Student
+Aditya Nair
+Aditya Nair	
+MSDS-610-03
+Student
+Manas Nambiar
+Manas Nambiar	
+MSDS-610-03
+Student
+Kabir Nawani
+Kabir Nawani	
+MSDS-610-03
+Student
+Chris Nishimura
+Chris Nishimura	
+MSDS-610-03
+Student
+Belinda Ong
+Belinda Ong	
+MSDS-610-02
+Student
+Jiaxuan Ouyang
+Jiaxuan Ouyang	
+MSDS-610-02
+Student
+Mikkel Ovesen
+Mikkel Ovesen	
+MSDS-610-04
+Student
+Ting Pan
+Ting Pan	
+MSDS-610-04
+Student
+Dawei Pang
+Dawei Pang	
+MSDS-610-02
+Student
+Rashmi Panse
+Rashmi Panse	
+MSDS-610-03
+Student
+Ajayeswar Reddy Peddyreddy
+Ajayeswar Reddy Peddyreddy	
+MSDS-610-04
+MSDS-610-01
+MSDS-610-03
+MSDS-610-02
+TA
+TA
+TA
+TA
+Yen Phan
+Yen Phan	
+MSDS-610-04
+Student
+Krit Poshakrishna
+Krit Poshakrishna	
+MSDS-610-01
+Student
+Sai Vamsi Pujari
+Sai Vamsi Pujari	
+MSDS-610-03
+Student
+Andrea Quiroz
+Andrea Quiroz	
+MSDS-610-03
+Student
+David Ramirez
+David Ramirez	
+MSDS-610-01
+Student
+Cassie Richter
+Cassie Richter	
+MSDS-610-02
+Student
+Lance Santerre
+Lance Santerre	
+MSDS-610-01
+Student
+Seneth Waterman
+Seneth Waterman	
+MSDS-610-02
+Student
+Fred Serfati
+Fred Serfati	
+MSDS-610-01
+Student
+Sonal Shad
+Sonal Shad	
+MSDS-610-04
+Student
+Eric Shen
+Eric Shen	
+MSDS-610-01
+Student
+Sissi Shen
+Sissi Shen	
+MSDS-610-02
+Student
+Maxim Sivolella
+Maxim Sivolella	
+MSDS-610-01
+Student
+Ronel Solomon
+Ronel Solomon	
+MSDS-610-04
+Student
+Bhumika Srinivas
+Bhumika Srinivas (She/Her/Hers)	
+MSDS-610-03
+Student
+Arios Tong
+Arios Tong	
+MSDS-610-02
+Student
+Ho Nam Tong
+Ho Nam Tong	
+MSDS-610-03
+Student
+Yi-Fang Tsai
+Yi-Fang Tsai	
+MSDS-610-03
+Student
+Evan Turkon
+Evan Turkon	
+MSDS-610-04
+Student
+Kejia Wang
+Kejia Wang	
+MSDS-610-02
+Student
+Kefeng Xiao
+Kefeng Xiao	
+MSDS-610-02
+Student
+Changqing Yang
+Changqing Yang	
+MSDS-610-04
+Student
+Justin Yang
+Justin Yang	
+MSDS-610-02
+Student
+Emily Yin
+Emily Yin	
+MSDS-610-01
+Student
+Laila Zaidi
+Laila Zaidi	
+MSDS-610-01
+Student
+Obtin Zandian
+Obtin Zandian	
+MSDS-610-02
+Student
+Claire Zhou
+Claire Zhou	
+MSDS-610-04
+Student
