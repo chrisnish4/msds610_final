@@ -1,9 +1,10 @@
 # Hash Tables
 ![hash table image](https://d33wubrfki0l68.cloudfront.net/87075beeda9ac5cf3bc104aaca45d231ef42aaea/56f14/img/blog/data-structures/hash-tables/hash-table.png)
 ### Overview
-The purpose of this presentation is to expand upon the previous presenations on hash tables by showcasing a range of use cases for hash functions. 
+In previous presenatations, we covered the basic structure of hash tables and the utility of thehash function.
+In our final presentation, we hope to expand upon the uses for hash tables by showcasing the broad applications of hash functions. We start with a practical use case in cybersecurity and go through a demo of the SHA-256 hash function, followed by a demo of a more abstract application.   
 
-Our presentation includes:
+Table of contents:
 - Cybersecurity: A demo using SHA-256 hash function
 - Abstract uses for hash functions 
 
