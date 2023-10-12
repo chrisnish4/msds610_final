@@ -2,13 +2,10 @@
 ![hash table image](https://d33wubrfki0l68.cloudfront.net/87075beeda9ac5cf3bc104aaca45d231ef42aaea/56f14/img/blog/data-structures/hash-tables/hash-table.png)
 ### Overview
 In previous presenatations, we covered the basic structure of hash tables and the utility of the hash function extensively.
-In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. Because there are an infinite amount of hash functions, there are equally as many use cases for them. We start with a practical use case in cybersecurity using the popular SHA-256 hash function, followed by .   
+In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. Because there are an infinite amount of hash functions, there are equally as many use cases for them. We will demo a common use case in cybersecurity using the popular SHA-256 hash function.   
 
-Table of contents:
-- [Cybersecurity](#sha-256-and-cybersecurity)
-- Abstract uses for hash functions 
 
-### SHA-256 and Cybersecurity
+### The Code
 File structure:
 - Hashing.ipynb: code demo
 - common_passwords.txt
