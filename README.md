@@ -1,5 +1,5 @@
 # Hashtables
-![alt text]([http://url/to/img.png](https://en.wikipedia.org/wiki/Open_addressing#/media/File:HASHTB12.svg)
+![alt text](https://en.wikipedia.org/wiki/Open_addressing#/media/File:HASHTB12.svg)
 ### Overview
 The purpose of this presentation is to expand upon the previous presenations on hash tables by showcasing a range of use cases for hash functions. 
 
