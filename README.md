@@ -4,6 +4,8 @@
 In previous presenatations, we covered the basic structure of hash tables and the utility of the hash function extensively.
 In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. Because there are an infinite amount of hash functions, there are equally as many use cases for them. We will demo a common use case in cybersecurity using the popular SHA-256 hash function.   
 
+### Types and Qualities of Hash Functions 
+There are generally two types of hash functions: cryptographic and non-cryptographic. The hash tables we have been talking about up until now have been 
 
 ### The Code
 File structure:
@@ -12,5 +14,5 @@ File structure:
 - hashes.txt
 - input.txt (omitted from public repo: personal info)
 - hash.png
-  
+Our demo 
 Hashing.ipynb seeks to explore some of the use cases for hashing, particularly with the common SHA-256. It provides insight into how the data is stored, but then shifts gears to talk about how these measures may not help during security breaches and bring awareness to the cybersecurity implications.
