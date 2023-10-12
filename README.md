@@ -7,7 +7,7 @@ In our final presentation, we expand upon the topic of hash tables delving deepe
 ### Types and Qualities of Hash Functions 
 There are generally two types of hash functions: **cryptographic** and **non-cryptographic**. The hash tables we have discussed until now have been implementing non-cryptographic hash functions, as we were only concerned with speed and didn't discuss security. Because non-cryptographic hash functions are meant for efficient search and retrieval, their main criteria are speed and collision resistance. Cryptogrpahic hash functions on the other hand, have more rigorous requirements. 
 
-According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash-function-in-java/#), there are six criteria for a cryptographic hash function:
+According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash-function-in-java/#), there are seven properties that make a cryptographic hash function effective:
 1. Deterministic
 2. Low computation time
 3. Avalanche effect
@@ -16,6 +16,8 @@ According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash
 6. Pre-image resistant
 7. Second pre-image resistant
 
+
+
 ### The Code
 File structure:
 - Hashing.ipynb: code demo
@@ -23,5 +25,5 @@ File structure:
 - hashes.txt
 - input.txt (omitted from public repo: personal info)
 - hash.png
-Our demo 
-Hashing.ipynb seeks to explore some of the use cases for hashing, particularly with the common SHA-256. It provides insight into how the data is stored, but then shifts gears to talk about how these measures may not help during security breaches and bring awareness to the cybersecurity implications.
+
+In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. Our example 
