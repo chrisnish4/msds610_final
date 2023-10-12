@@ -9,8 +9,9 @@ Our presentation includes:
 ### SHA-256 and Cybersecurity
 File structure:
 - Hashing.ipynb: code demo
-- input.txt  
 - common_passwords.txt
 - hashes.txt
-- 
+- input.txt (omitted from public repo: personal info)
+- hash.png
+  
 Hashing.ipynb seeks to explore some of the use cases for hashing, particularly with the common SHA-256. It provides insight into how the data is stored, but then shifts gears to talk about how these measures may not help during security breaches and bring awareness to the cybersecurity implications.
