@@ -5,7 +5,7 @@ In previous presenatations, we covered the basic structure of hash tables and th
 In our final presentation, we hope to expand upon the uses for hash tables by showcasing the broad applications of hash functions. We start with a practical use case in cybersecurity and go through a demo of the SHA-256 hash function, followed by a demo of a more abstract application.   
 
 Table of contents:
-- Cybersecurity: A demo using SHA-256 hash function
+- [Cybersecurity](#sha-256-and-cybersecurity)
 - Abstract uses for hash functions 
 
 ### SHA-256 and Cybersecurity
