@@ -32,6 +32,9 @@ In the Hashing.ipynb file, we explore some of the use cases for hashing, particu
 ---
 
 ### Extra
-A visualiation of the pseudo-random nature of hash functions:
+A visualiation of the pseudo-random nature of hash functions:![neo_tokyo](https://github.com/chrisnish4/msds610_final/assets/60720029/f89566a7-4a3e-4d7a-81af-621ceb22e5eb)
+- Ordered sort
+![neo_tokyo_sort](https://github.com/chrisnish4/msds610_final/assets/60720029/1e0491ca-d54b-4aae-8ec2-66ebe44e60d2)
+
 - Did a partial sort by hash function in each row to get a 'static' glitch effect  
 ![neo_tokyo_hash](https://github.com/chrisnish4/msds610_final/assets/60720029/6bd268a1-a1b5-4c77-9e00-9e7fec50b4c3)
