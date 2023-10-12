@@ -1,7 +1,7 @@
 # Hash Tables
 ![hash table image](https://d33wubrfki0l68.cloudfront.net/87075beeda9ac5cf3bc104aaca45d231ef42aaea/56f14/img/blog/data-structures/hash-tables/hash-table.png)
 ### Overview
-In previous presenatations, we covered the basic structure of hash tables and the utility of the hash function extensively. In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. We will demo a common use case in cybersecurity using the popular SHA-256 hash function.   
+In previous presenatations, we covered the basic structure of hash tables and the utility of the hash function extensively. In our final presentation, we expand upon the topic of hash tables delving deeper into the hash function. We will demo a common use case in cybersecurity using the popular SHA-256 hash function.    
 
 ---
 ### Types and Qualities of Hash Functions 
@@ -29,3 +29,9 @@ Files:
 
 In the Hashing.ipynb file, we explore some of the use cases for hashing, particularly with the common SHA-256. We hope to provide insight into how the data is stored, then shift gears to discuss how these measures may be outdone during security breaches and bring awareness to the cybersecurity implications and methods for protecting your personal information. ![hash](https://github.com/chrisnish4/msds610_final/assets/60720029/2ffec202-9926-4dec-95bd-e59e2816fbb3)
 
+---
+
+### Extra
+A visualiation of the pseudo-random nature of hash functions:
+- Did a partial sort by hash function in each row to get a 'static' glitch effect  
+![neo_tokyo_hash](https://github.com/chrisnish4/msds610_final/assets/60720029/6bd268a1-a1b5-4c77-9e00-9e7fec50b4c3)
