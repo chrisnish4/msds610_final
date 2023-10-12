@@ -1,5 +1,5 @@
 # Hash Tables
-![hash table image](https://upload.wikimedia.org/wikipedia/commons/9/90/HASHTB12.svg)
+![hash table image](https://d33wubrfki0l68.cloudfront.net/87075beeda9ac5cf3bc104aaca45d231ef42aaea/56f14/img/blog/data-structures/hash-tables/hash-table.png)
 ### Overview
 The purpose of this presentation is to expand upon the previous presenations on hash tables by showcasing a range of use cases for hash functions. 
 
