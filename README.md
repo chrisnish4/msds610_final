@@ -8,8 +8,13 @@ In our final presentation, we expand upon the topic of hash tables delving deepe
 There are generally two types of hash functions: **cryptographic** and **non-cryptographic**. The hash tables we have discussed until now have been implementing non-cryptographic hash functions, as we were only concerned with speed and didn't discuss security. Because non-cryptographic hash functions are meant for efficient search and retrieval, their main criteria are speed and collision resistance. Cryptogrpahic hash functions on the other hand, have more rigorous requirements. 
 
 According to [Geekstogeeks.com](https://www.geeksforgeeks.org/cryptographic-hash-function-in-java/#), there are six criteria for a cryptographic hash function:
-1. It is deterministic
-2. 
+1. Deterministic
+2. Low computation time
+3. Avalanche effect
+4. One-way function
+5. Collision resistant
+6. Pre-image resistant
+7. Second pre-image resistant
 
 ### The Code
 File structure:
